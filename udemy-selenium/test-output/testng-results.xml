@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89" started-at="2018-06-13T19:51:29Z" finished-at="2018-06-13T19:51:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89" started-at="2018-06-13T19:51:29Z" finished-at="2018-06-13T19:51:29Z">
+      <class name="mixedapplication.Dummy">
+        <test-method status="PASS" signature="check()[pri:0, instance:mixedapplication.Dummy@cb5822]" name="check" duration-ms="13" started-at="2018-06-13T19:51:29Z" finished-at="2018-06-13T19:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- mixedapplication.Dummy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
